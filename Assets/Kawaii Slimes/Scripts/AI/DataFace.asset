@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d901206271d8c99408246a49a016ac29, type: 3}
+  m_Name: DataFace
+  m_EditorClassIdentifier: 
+  Idleface: {fileID: 2800000, guid: 2e0e5994249a31640bf4045362e1333e, type: 3}
+  WalkFace: {fileID: 2800000, guid: a199070e943674e4fb723dd5bfedfa91, type: 3}
+  jumpFace: {fileID: 2800000, guid: f261f5e5642a122459949a398033d017, type: 3}
+  attackFace: {fileID: 2800000, guid: 782203f93d5b797459a22445a1f1299d, type: 3}
+  damageFace: {fileID: 2800000, guid: b05ea8b41aaa2f240ac3a19fd77afbc7, type: 3}
